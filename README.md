@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Tushar 👋
 
-<!--
-**tushar-313/tushar-313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a B.Tech Computer Science student who enjoys building practical web projects
+and learning how real applications work behind the scenes.
 
-Here are some ideas to get you started:
+I focus on understanding fundamentals, writing clean code,
+and improving step by step through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+- HTML, CSS, JavaScript
+- Node.js, Express (basics)
+- Git & GitHub
+- REST APIs (beginner)
+
+## 📌 Projects
+Some of the things I’ve worked on:
+- **Amazon Clone** – Frontend UI clone to practice layouts and responsiveness
+- **JavaScript Mini Projects** – Games and logic-based applications
+- **Forms & API Projects** – Understanding GET/POST requests and backend flow
+
+## 🌱 Currently Learning
+- Backend development
+- JavaScript internals
+- How web applications work end-to-end
+
+## 🎯 Goals
+- Build meaningful full-stack projects
+- Strengthen problem-solving skills
+- Prepare for internships and real-world development
+
+## 📫 Connect
+- GitHub: https://github.com/tushar-313
+- LinkedIn: https://www.linkedin.com/in/tushar-agarwal-205b01374/
+
+---
+⭐ Learning by building, breaking, and fixing things.
