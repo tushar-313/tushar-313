@@ -7,10 +7,9 @@ I focus on understanding fundamentals, writing clean code,
 and improving step by step through hands-on projects.
 
 ## 🛠️ Skills & Tools
-- HTML, CSS, JavaScript
-- Node.js, Express (basics)
-- Git & GitHub
-- REST APIs (beginner)
+## 🛠️ Skills & Tools
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github" />
+
 
 ## 📌 Projects
 Some of the things I’ve worked on:
