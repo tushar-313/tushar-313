@@ -15,7 +15,6 @@ and improving step by step through hands-on projects.
 - How web applications work end-to-end
 
 ## 📫 Connect
-- GitHub: https://github.com/tushar-313
 - LinkedIn: https://www.linkedin.com/in/tushar-agarwal-205b01374/
 
 ---
