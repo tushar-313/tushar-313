@@ -3,7 +3,7 @@
 I’m a B.Tech Computer Science student who enjoys building practical web projects
 and learning how real applications work behind the scenes.
 
-I focus on understanding fundamentals, writing clean code,
+I focus on understanding fundamentals, writing clean code
 and improving step by step through hands-on projects.
 
 ## 🛠️ Skills & Tools
