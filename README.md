@@ -7,7 +7,7 @@ I focus on understanding fundamentals, writing clean code
 and improving step by step through hands-on projects.
 
 ## 🛠️ Skills & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github" />
 
 ## 🌱 Currently Learning
 - Backend development
