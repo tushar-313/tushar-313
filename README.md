@@ -56,13 +56,6 @@ tushar = {
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tushar-313&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
@@ -72,6 +65,21 @@ tushar = {
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushar-313)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharagrawal318@gmail.com)
 
+</div>
+
+---
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tushar-313/tushar-313/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 💬 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
