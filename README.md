@@ -59,7 +59,7 @@ tushar = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-313&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=tushar-313&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
 </div>
 
 ---
