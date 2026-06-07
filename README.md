@@ -68,10 +68,10 @@ tushar = {
 </div>
 
 ---
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tushar-313/tushar-313/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-313&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
