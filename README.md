@@ -46,12 +46,12 @@ tushar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-stats.as93.net/api?username=tushar-313&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=tushar-313&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-313&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-313&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+ <img width="50%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-313&theme=tokyonight&hide_border=true&layout=compact" />
 </div>
 
 ---
