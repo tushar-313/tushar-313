@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Tushar+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Always+Learning+New+Things+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Tushar+%F0%9F%91%8B;Building,+Learning+and+Growing+Every+Day+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -12,7 +12,7 @@
 
 ```python
 tushar = {
-    "college"  : "IIIT Nagpur '29",
+    "college"  : "IIIT Nagpur",
     "role"     : "Full Stack Developer",
     "stack"    : ["React", "Node.js", "MongoDB", "Python", "FastAPI", "PostgreSQL"],
     "dsa"      : "2★ CodeChef | 500+ problems solved",
