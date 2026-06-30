@@ -15,7 +15,7 @@ tushar = {
     "college"  : "IIIT Nagpur",
     "role"     : "Full Stack Developer",
     "stack"    : ["React", "Node.js", "MongoDB", "Python", "FastAPI", "PostgreSQL"],
-    "dsa"      : "2★ CodeChef | 500+ problems solved",
+    "dsa"      : "2★ CodeChef | 1000+ problems solved",
     "os"       : "GSSoC '26 Contributor",
     "hobbies"  : ["Coding", "Hackathons", "Building Projects"],
     "goal"     : "Write production-ready code, not just make things work"
