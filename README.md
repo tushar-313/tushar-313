@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Tushar+%F0%9F%91%8B;Building,+Learning+and+Growing+Every+Day+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=650&lines=Hey+there!+I'm+Tushar+%F0%9F%91%8B;Building,+Learning+and+Growing+Everyday+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 ---
@@ -68,7 +68,7 @@ tushar = {
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-313&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-313&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
