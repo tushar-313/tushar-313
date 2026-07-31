@@ -64,7 +64,9 @@ tushar = {
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api?username=tushar-313&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://streak-stats.vercel.app?user=tushar-313" />
+</div>
+<div align="center">
+  <img height="180em" src="https://streak-stats.vercel.app/?user=tushar-313&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center"> <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tushar-313&theme=tokyonight&hide_border=true&layout=compact" /> </div>
