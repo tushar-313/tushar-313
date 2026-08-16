@@ -66,6 +66,15 @@ tushar = {
 
 **GirlScript Summer of Code 2026 — Open Source Track**
 
+<div align="center">
+
+<img src="YOUR_BADGE_1_URL" width="110"/>
+<img src="YOUR_BADGE_2_URL" width="110"/>
+<img src="YOUR_BADGE_3_URL" width="110"/>
+<img src="YOUR_BADGE_4_URL" width="110"/>
+
+</div>
+
 - 🏆 **Rank:** #798 / 43,587 participants
 - 🔀 **15 PRs merged**
 - 🌟 **Top 2%**
