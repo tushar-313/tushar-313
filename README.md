@@ -89,18 +89,6 @@ tushar = {
 
 ---
 
-### Hacktoberfest
-
-*Coming soon...* 🚀
-
----
-
-### Google Summer of Code
-
-*Future goal* 🎯
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
