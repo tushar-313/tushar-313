@@ -60,6 +60,36 @@ tushar = {
 
 ---
 
+## 🌍 Open Source
+
+### GSSoC'26
+
+**GirlScript Summer of Code 2026 — Open Source Track**
+
+- 🏆 **Rank:** #798 / 43,587 participants
+- 🔀 **15 PRs merged**
+- 🌟 **Top 2%**
+- 💻 Contributed to multiple open-source projects, including **CreatorOS**
+- 🤝 Worked with maintainers, reviewed code, and followed real-world contribution workflows
+
+**Project:** [CreatorOS](https://github.com/...)
+
+**Role:** Open Source Contributor
+
+---
+
+### Hacktoberfest
+
+*Coming soon...* 🚀
+
+---
+
+### Google Summer of Code
+
+*Future goal* 🎯
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
