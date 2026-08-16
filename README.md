@@ -68,10 +68,11 @@ tushar = {
 
 <div align="center">
 
-<img src="assets/badges/badge1" />
-<img src="YOUR_BADGE_2_URL" width="110"/>
-<img src="YOUR_BADGE_3_URL" width="110"/>
-<img src="YOUR_BADGE_4_URL" width="110"/>
+<img src="assets/badges/badge1" width="150"/>
+<img src="assets/badges/badge2" width="150"/>
+<img src="assets/badges/badge3" width="150"/>
+<img src="assets/badges/badge4" width="150"/>
+
 
 </div>
 
