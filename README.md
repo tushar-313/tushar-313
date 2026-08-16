@@ -72,7 +72,7 @@ tushar = {
 - 💻 Contributed to multiple open-source projects, including **CreatorOS**
 - 🤝 Worked with maintainers, reviewed code, and followed real-world contribution workflows
 
-**Project:** [CreatorOS](https://github.com/...)
+**Project:** [CreatorOS](https://github.com/aashutoshkumarbhardwaj/CreatorOs)
 
 **Role:** Open Source Contributor
 
