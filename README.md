@@ -74,7 +74,7 @@ tushar = {
 
 </div>
 
-- 🏆 **Rank:** #796 / 46,797 participants
+- 🏆 **Rank:** #800 / 46,797 participants
 - 🔀 **15 PRs merged**
 - 🌟 **Top 2%**
 - 💻 Contributed to multiple open-source projects, including **CreatorOS**
