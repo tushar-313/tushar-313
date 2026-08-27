@@ -115,11 +115,11 @@ tushar = {
 
 ---
 ## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tushar-313&theme=tokyonight" />
 </div>
-
 ---
 
 ## 💬 Dev Quote of the Day
