@@ -12,13 +12,16 @@
 
 ```python
 tushar = {
-    "college"  : "IIIT Nagpur",
-    "role"     : "Full Stack Developer",
-    "stack"    : ["React", "Node.js", "MongoDB", "Python", "FastAPI", "PostgreSQL"],
-    "dsa"      : "2★ CodeChef | 1000+ problems solved",
-    "os"       : "GSSoC '26 Contributor",
-    "hobbies"  : ["Coding", "Hackathons", "Building Projects"],
-    "goal"     : "Write production-ready code, not just make things work"
+    "college" : "IIIT Nagpur",
+    "roles"   : [
+        "Open Source Lead @ Elevate IIITN",
+        "Web Development Lead @ IOTICS IIITN"
+    ],
+    "stack"   : ["React", "Node.js", "MongoDB", "Python", "FastAPI", "PostgreSQL"],
+    "dsa"     : "2★ CodeChef | 1000+ problems solved",
+    "os"      : "GSSoC '26 Contributor | Open Source Lead",
+    "hobbies" : ["Coding", "Hackathons", "Building Projects"],
+    "goal"    : "Write production-ready code, not just make things work"
 }
 ```
 
@@ -114,7 +117,7 @@ tushar = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-313&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph" />
 </div>
 
 ---
