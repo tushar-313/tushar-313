@@ -114,7 +114,7 @@ tushar = {
 </div>
 
 ---
-## 📈 Contribution Graph
+
 ## 📈 Contribution Activity
 
 <div align="center">
