@@ -18,7 +18,7 @@ tushar = {
         "Web Development Lead @ IOTICS IIITN"
     ],
     "stack"   : ["React", "Node.js", "MongoDB", "Python", "FastAPI", "PostgreSQL"],
-    "dsa"     : "2★ CodeChef | 1000+ problems solved",
+    "dsa"     : "2★ CodeChef | 2000+ problems solved",
     "os"      : "GSSoC '26 Contributor | Open Source Lead",
     "hobbies" : ["Coding", "Hackathons", "Building Projects"],
     "goal"    : "Write production-ready code, not just make things work"
